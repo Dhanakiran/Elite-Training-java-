@@ -1,4 +1,4 @@
-# 🚀 Elite Placement Training: Complete Problem Solving Journal
+# 🚀 Elite Placement Training: Complete Problem Solving Journal (Entire Java Grind)!
 
 ![Java](https://img.shields.io/badge/Language-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Topic-DSA-blue?style=for-the-badge)
@@ -73,4 +73,11 @@ A high-level overview of the specific logic and algorithms practiced during this
 
 ---
 
+
+👨‍💻 Author
+
+DhanaKiran G
+
+This repository represents my learning journey during the Elite Placement Training program, where I focused on strengthening my problem-solving skills in Java and Data Structures & Algorithms through consistent daily practice.
+Most of the problems were solved using Java, with practice carried out on platforms such as HackerRank, LeetCode, and OneCompiler.
 
